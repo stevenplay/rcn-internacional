@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal RCN Nuestra Tele (Internacional)">
+    <display-name lang="es">RCN Internacional FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210111010000 +0100" stop="20210111020000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210111020000 +0100" stop="20210111030000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Yo, José Gabriel</title>
+  </programme>
+  <programme start="20210111030000 +0100" stop="20210111033000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Fútbol en detalle</title>
+  </programme>
+  <programme start="20210111033000 +0100" stop="20210111040000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Entrevistas con Hernán</title>
+  </programme>
+  <programme start="20210111040000 +0100" stop="20210111050000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">El Show de las Estrellas</title>
+  </programme>
+  <programme start="20210111050000 +0100" stop="20210111053000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">4 caminos</title>
+  </programme>
+  <programme start="20210111053000 +0100" stop="20210111060000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Vivendo TV</title>
+  </programme>
+  <programme start="20210111060000 +0100" stop="20210111080000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">La luz de mis ojos</title>
+  </programme>
+  <programme start="20210111080000 +0100" stop="20210111090000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">El despecho</title>
+  </programme>
+  <programme start="20210111090000 +0100" stop="20210111093000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111093000 +0100" stop="20210111100000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111100000 +0100" stop="20210111103000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111103000 +0100" stop="20210111110000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111110000 +0100" stop="20210111113000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111113000 +0100" stop="20210111123000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210111123000 +0100" stop="20210111133000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">4 caminos</title>
+  </programme>
+  <programme start="20210111133000 +0100" stop="20210111143000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Yo, José Gabriel</title>
+  </programme>
+  <programme start="20210111143000 +0100" stop="20210111153000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Contra Las Cuerdas</title>
+  </programme>
+  <programme start="20210111153000 +0100" stop="20210111160000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Tenemos que Hablar</title>
+  </programme>
+  <programme start="20210111160000 +0100" stop="20210111170000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Trendiando</title>
+  </programme>
+  <programme start="20210111170000 +0100" stop="20210111173000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111173000 +0100" stop="20210111180000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210111180000 +0100" stop="20210111183000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Entrevistas con Hernán</title>
+  </programme>
+  <programme start="20210111183000 +0100" stop="20210111203000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210111203000 +0100" stop="20210111210000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Lo Mejor de la Liga Águila</title>
+  </programme>
+  <programme start="20210111210000 +0100" stop="20210111213000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Girls O'clock</title>
+  </programme>
+  <programme start="20210111213000 +0100" stop="20210111223000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">La luz de mis ojos</title>
+  </programme>
+  <programme start="20210111223000 +0100" stop="20210111230000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Tenemos que Hablar</title>
+  </programme>
+  <programme start="20210111230000 +0100" stop="20210112000000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Contra Las Cuerdas</title>
+  </programme>
+  <programme start="20210112000000 +0100" stop="20210112010000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Trendiando</title>
+  </programme>
+  <programme start="20210112010000 +0100" stop="20210112023000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210112023000 +0100" stop="20210112030000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">La luz de mis ojos</title>
+  </programme>
+  <programme start="20210112030000 +0100" stop="20210112040000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Regreso a la Guaca</title>
+  </programme>
+  <programme start="20210112040000 +0100" stop="20210112043000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210112043000 +0100" stop="20210112053000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Charla Técnica</title>
+  </programme>
+  <programme start="20210112053000 +0100" stop="20210112060000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Lo Mejor de la Liga Águila</title>
+  </programme>
+  <programme start="20210112060000 +0100" stop="20210112070000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">El despecho</title>
+  </programme>
+  <programme start="20210112070000 +0100" stop="20210112080000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Regreso a la Guaca</title>
+  </programme>
+  <programme start="20210112080000 +0100" stop="20210112090000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">La luz de mis ojos</title>
+  </programme>
+  <programme start="20210112113000 +0100" stop="20210112153000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210112153000 +0100" stop="20210112160000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Tenemos que Hablar</title>
+  </programme>
+  <programme start="20210112160000 +0100" stop="20210112170000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Trendiando</title>
+  </programme>
+  <programme start="20210112170000 +0100" stop="20210112173000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210112173000 +0100" stop="20210112180000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210112180000 +0100" stop="20210112183000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">América se Entera</title>
+  </programme>
+  <programme start="20210112183000 +0100" stop="20210112203000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20210112203000 +0100" stop="20210112213000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Yo, José Gabriel</title>
+  </programme>
+  <programme start="20210112230000 +0100" stop="20210113000000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Regreso a la Guaca</title>
+  </programme>
+  <programme start="20210113020000 +0100" stop="20210113030000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">La luz de mis ojos</title>
+  </programme>
+  <programme start="20210113053000 +0100" stop="20210113060000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Entrevistas con Hernán</title>
+  </programme>
+  <programme start="20210113090000 +0100" stop="20210113093000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Rotorazor: La Sierra Mas Ligera</title>
+  </programme>
+  <programme start="20210113100000 +0100" stop="20210113103000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">¡Nutrición orgánica integral y superalimenticia simplificada</title>
+  </programme>
+  <programme start="20210113103000 +0100" stop="20210113110000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Ideal Prostate+ proporciona alivio natural seguro</title>
+  </programme>
+  <programme start="20210113203000 +0100" stop="20210113210000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Fútbol en detalle</title>
+  </programme>
+  <programme start="20210113210000 +0100" stop="20210113213000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">El despecho</title>
+  </programme>
+  <programme start="20210113213000 +0100" stop="20210113223000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">La luz de mis ojos</title>
+  </programme>
+  <programme start="20210113223000 +0100" stop="20210113230000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Tenemos que Hablar</title>
+  </programme>
+  <programme start="20210113230000 +0100" stop="20210114000000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Regreso a la Guaca</title>
+  </programme>
+  <programme start="20210114053000 +0100" stop="20210114060000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Fútbol en detalle</title>
+  </programme>
+  <programme start="20210114090000 +0100" stop="20210114093000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Paint Zoom - La Espectacular y Poderosa Pistola para Pintar</title>
+  </programme>
+  <programme start="20210114093000 +0100" stop="20210114100000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Ir al baño a menudo</title>
+  </programme>
+  <programme start="20210114100000 +0100" stop="20210114103000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Rotorazor: La Sierra Mas Ligera</title>
+  </programme>
+  <programme start="20210114203000 +0100" stop="20210114213000 +0100" channel="Canal RCN Nuestra Tele (Internacional)">
+    <title lang="es">Colombia a la carta</title>
+  </programme>
+</tv>
